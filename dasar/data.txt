@@ -1,0 +1,4 @@
+ini adalah data text yang dibuat
+ini baris kedua
+ini baris ketiga
+ baris ini digunakan dengan menggunakan append
