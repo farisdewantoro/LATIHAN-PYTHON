@@ -1,6 +1,6 @@
 #untuk masuk ke enviroment dan membuat envronment yaitu python -m venv 'nama folder'
 #untuk masuk ke virtual enviroment :
-# menggunakan linux atau gitbash yaitu 'nama_folder'\Scripts\activate
+# menggunakan linux atau gitbash yaitu source ./'nama_folder'/Scripts/activate
 # menggunakan windows atau cmd biasa yaitu ''nama_folder'\Scripts\activate.bat
 # cara install package_list --> pip freeze --local > 'namafile.txt'
 # pip install -r 'nama_file_package.txt'
