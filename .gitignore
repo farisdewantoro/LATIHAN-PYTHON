@@ -4,3 +4,8 @@
 /django/env
 /django2/env
 /django1.11/env
+/react_django/env
+/react_django/node_modules
+/Flask/env
+/Flask/node_modules
+/twitter_bot/env
